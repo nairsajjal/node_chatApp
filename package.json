@@ -6,16 +6,11 @@
   "scripts": {
     "start": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nairsajjal/node_chatApp.git"
-  },
+  
   "author": "Sajjal",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nairsajjal/node_chatApp/issues"
-  },
-  "homepage": "https://github.com/nairsajjal/node_chatApp#readme",
+ 
+  
   "dependencies": {
     "mongodb": "^3.2.7",
     "socket.io": "^2.2.0"
